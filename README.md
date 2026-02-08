@@ -1,5 +1,5 @@
 # Qisse AI (قصہ) 📜
-### * RAG based chatbot using Qdrant database and Groq api *
+### RAG based chatbot using Qdrant database and Groq api
 <p align="center">
   <img src="image.png" alt="Qisse-GPT Hero Image" width="100%">
 </p>
