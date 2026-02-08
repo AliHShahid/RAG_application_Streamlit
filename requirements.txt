@@ -4,6 +4,8 @@ streamlit
 # LangChain core and community packages
 langchain
 langchain-community
+langchain-text-splitters
+langchain-huggingface
 
 # Groq LLM integration
 langchain-groq

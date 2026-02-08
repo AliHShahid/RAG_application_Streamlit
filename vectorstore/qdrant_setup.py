@@ -1,5 +1,7 @@
 from langchain_qdrant import QdrantVectorStore
-from langchain.embeddings import HuggingFaceEmbeddings
+# from langchain.embeddings import HuggingFaceEmbeddings
+# To this:
+from langchain_huggingface import HuggingFaceEmbeddings
 from config import QDRANT_URL, QDRANT_API_KEY, COLLECTION_NAME, EMBEDDING_MODEL
 
 def get_vectorstore(documents):

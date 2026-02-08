@@ -1,5 +1,6 @@
 import os
-from langchain.schema.runnable import RunnableLambda
+# from langchain.schema.runnable import RunnableLambda
+from langchain_core.runnables import RunnableLambda
 from langchain_groq import ChatGroq
 from langchain_core.output_parsers import StrOutputParser
 from config import GROQ_API_KEY

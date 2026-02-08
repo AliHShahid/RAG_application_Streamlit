@@ -1,0 +1,31 @@
+# --- Security & Secrets ---
+# Never commit your actual config or environment variables
+config.py
+.env
+*.env
+secrets.py
+
+# --- Python Environment ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+build/
+dist/
+*.egg-info/
+
+# --- Data & Vector Stores ---
+# Don't upload local databases or large PDF folders
+.qdrant/
+Sahayari/
+*.pdf
+*.csv
+*.json
+
+# --- OS & IDE ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
