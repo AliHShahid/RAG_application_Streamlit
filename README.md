@@ -10,8 +10,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Qisse AI** is a specialized RAG (Retrieval-Augmented Generation) system designed to navigate and interpret the vast world of Urdu poetry. By combining the linguistic depth of Llama 3.3 with a high-performance vector retrieval layer, Qisse AI provides contextually aware answers, thematic analysis, and poetic discovery.
+<p align="center">
+  <img src="image1.png" alt="Qisse-GPT Hero Image" width="100%">
+</p>
 
 ---
+
 
 ## 🚀 Key Features
 
